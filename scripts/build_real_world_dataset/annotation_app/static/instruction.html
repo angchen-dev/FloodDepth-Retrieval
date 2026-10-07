@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Floodify Annotation Instructions</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: white;
+      padding: 2rem;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div id="inst-msg" class="container">
+    <h1 class="mb-4 text-center" style="font-size: 1.8rem;">Instruction</h1>
+  
+    <p style="font-size: 1.2rem;">Welcome to the flood-depth annotation demo. Please read the instructions carefully before proceeding.</p>
+  
+    <h3 style="font-size: 1.5rem;">Objective</h3>
+    <p style="font-size: 1.2rem;">
+      You will be shown images of vehicles partially submerged in floodwaters.
+      Your task is to estimate the flood depth by selecting a matching car type and adjusting a 3D model.
+    </p>
+  
+    <h3 style="font-size: 1.5rem;">Steps</h3>
+    <ol style="font-size: 1.2rem;"></ol>
+      <li>
+        <strong>Select a car type:</strong><br>
+        Based on the image on the <strong>left</strong>, choose the car category on the <strong>right</strong> (e.g., SUV, Compact Car) that most closely resembles the vehicle in the flood scene. Then click <strong>"Select 3D car model"</strong>.
+      </li>
+      <img src="/assets/instruction/step1.png" alt="Select Car Type" class="img-fluid mb-3">
+      <li>
+        <strong>Adjust the water level:</strong><br>
+        A 3D model of the selected car will appear next to the flood image. Use your mouse to <em>rotate</em> (left-click + drag) and <em>zoom</em> (scroll wheel) the view. Adjust the flood depth using the slider until the blue water cube matches the waterline seen in the image. (You can either use the mouse or keyboard <strong>&larr;</strong> and <strong>&rarr;</strong> to control the slider.) Then click <strong>“Next Image”</strong>.
+      </li>
+      <img src="/assets/instruction/step2.png" alt="Adjust Water Level" class="img-fluid mb-3">
+    </ol>
+  
+    <h3 style="font-size: 1.5rem;">Hints</h3>
+    <ul style="font-size: 1.2rem;">
+      <li><strong>If the car type doesn't match, use "Change Car" to pick another.</strong></li>
+      <li><strong>For images with multiple cars, select the car that is unobstructed and closest to the foreground.</strong></li>
+      <li><strong>If the car is tilted or not level, use the midpoint of the visible waterline as your reference for flood depth.</strong></li>
+      <li><strong>If you are unsure, provide your best estimate.</strong></li>
+    </ul>
+  
+    <h3 style="font-size: 1.5rem;">Important</h3>
+    <p style="font-size: 1.2rem;">Your responses will help improve flood risk modeling. Please take your time and do your best.</p>
+  </div>
+
+</body>
+
+</html>

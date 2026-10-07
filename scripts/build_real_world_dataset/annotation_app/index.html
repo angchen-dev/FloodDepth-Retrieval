@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Floodify Image Assessment Study</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+    }
+    .hidden {
+      display: none;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+
+      /* Allow page-level scroll if content overflows */
+      overflow-y: auto;
+    }
+
+    .modal:target {
+      display: block;
+    }
+
+    .modal-content {
+      background-color: white;
+      width: 80%;
+      margin: 40px auto; /* margin top/bottom for spacing */
+      padding: 20px;
+      border-radius: 8px;
+      position: relative;
+
+      /* Make content box responsive and scrollable */
+      max-height: calc(100vh - 80px); /* leave room for top/bottom margin */
+      overflow-y: auto;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      font-size: 24px;
+      font-weight: bold;
+      text-decoration: none;
+      color: #333;
+      cursor: pointer;
+    }
+
+
+
+  </style>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+
+  <!-- Demo Notice Embed -->
+  <iframe id="consentFrame" src="./static/demo_notice.html" style="width: 100%; height: 100vh; border: none; position: fixed; top: 0; left: 0;"></iframe>
+
+  <!-- Instruction Page -->
+  <div id="instructionStage" style="display: none;">
+    </br>
+    <div id="inst-txt" class="container"></div>
+    <div id="inst-control" class="container text-center mt-4" style="background-color: white; font-size: 1.2rem;">
+      <hr>
+      <p class="text-muted" style="font-size: 1.5rem; color: black; font-weight: bold;">
+        Once you're ready, click "Continue to Trial" to start the trial. You will be shown a few example images to familiarize yourself with the task.
+        After the trial, you will proceed to the annotation demo.
+      </p>
+      
+      <button id="continueBtn" class="btn btn-primary btn-lg">
+      Continue to Trial
+      </button>
+      
+    </div>
+  </br>
+  </div>
+
+
+
+  <!-- Main Interface (Hidden at first) -->
+  <div id="mainInterface" class="hidden">
+    <br>
+    <div id="progress-container" style="width: 100%; text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+      <a href="#instructionModal" style="color: #3498db; text-decoration: underline;">
+        View instruction
+      </a>
+      <div id="progress-info"></div>
+      <div class="progress" style="height: 25px; margin: 10px auto; width: 80%;">
+          <div id="progress-bar" class="progress-bar progress-bar-striped progress-bar-animated" 
+              role="progressbar" 
+              style="width: 0%" 
+              aria-valuenow="0" 
+              aria-valuemin="0" 
+              aria-valuemax="100">
+          </div>
+      </div>
+    </div>
+
+    <div id="container" style="display: flex; justify-content: center; align-items: flex-start; padding: 40px 20px 20px; gap: 20px; box-sizing: border-box;">
+      <div id="left-panel" style="height: 50vh; width: 40vw; background-color: #ffffff; padding: 0 10px; overflow: hidden;">
+        <img id="refImage" alt="Reference image" style="height: auto; width: 100%; display: block; margin-left: auto;" />
+      </div>
+      <div id="right-panel" style="width: 40vw; display: flex; flex-direction: column; box-sizing: border-box; background-color: #ffffff;">
+        <div id="allCarImages" style="justify-content: center;">
+          <img src="/assets/car_images/all_cars.png" alt="All Cars" style="width: 100%; height: auto; display: block; margin-bottom: 16px;" />
+        </div>
+
+        <!-- Image Grid Container -->
+        <div id="image-grid-container" class="hidden" style="padding-bottom: 20px;">
+          <div id="image-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr); gap: 10px; padding: 0px; width: 100%;">
+              </div>
+          <div style="text-align: center; margin-top: 20px; padding: 10px; width: 100%;">
+              <button id="selectCarTypeButton" class="btn btn-primary btn-lg">Select 3D car model</button>
+          </div>
+      </div>
+
+
+        <!-- 3D Model Container (Hidden initially) -->
+        <div id="annotate-container" class="hidden">
+            <div style="width:100%; display: flex; align-items: center; gap: 10px; ">
+              <input type="range" id="depthSlider" class="form-range" min="0" max="1.0" step="0.005" value="0.0" style="flex: 1;" />
+              <span id="depthValue">0.00</span>
+              <p></p>
+            </div>
+            <script>
+              const slider = document.getElementById('depthSlider');
+              const valueSpan = document.getElementById('depthValue');
+              slider.addEventListener('input', () => {
+                valueSpan.textContent = Number(slider.value).toFixed(2);
+              });
+            </script>
+          <div id="carmodel-container"  style="position: relative; height: 50vh; display: none;">
+            <span id="annotate-hint" style="position: absolute; top: 10px; left: 10px; color: white; font-size: 18px; background: rgba(0, 0, 0, 0.5); padding: 6px 10px; border-radius: 4px; z-index: 2; pointer-events: none;">
+              Change the orientation of the 3D model by left-clicking and dragging.<br>
+              Scale the model by scrolling the mouse wheel.
+            </span>
+          </div>
+          <div id="controls" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 10px; background: rgb(255, 255, 255);">
+            <div style="display: flex; flex-direction: row; gap: 10px; width: 80%; justify-content: center;">
+              <button id="changeCarType" class="btn btn-warning">Change car</button>
+              <button id="nextImageButton" class="btn btn-primary">Next image</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="info-panel" class="hidden"></div>
+
+    </div>
+  </div>
+
+  <div id="instructionModal" class="modal">
+    <div class="modal-content">
+      <a href="#" class="modal-close">&times;</a>
+      <iframe id="instructionModalIframe" src="./static/instruction.html" style="width: 100%; height: calc(100vh - 40px); border: none;"></iframe>
+    </div>
+  </div>
+
+  <script type="module" src="./static/main.js"></script>
+</body>
+</html>

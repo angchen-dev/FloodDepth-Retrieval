@@ -1,0 +1,1402 @@
+{
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000003_generated_replaced_000005.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000022_generated_replaced_000001.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000056_generated_replaced_000007.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000064_generated_replaced_000003.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000071_generated_replaced_000007.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000076_generated_replaced_000006.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000084_generated_replaced_000007.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000087_generated_replaced_000009.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000093_generated_replaced_000004.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000125_generated_replaced_000004.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000150_generated_replaced_000000.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.1_000151_generated_replaced_000005.jpg": {
+    "abs": 16.59,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000001_generated_replaced_000009.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000035_generated_replaced_000005.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000049_generated_replaced_000001.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000060_generated_replaced_000004.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000094_generated_replaced_000009.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000122_generated_replaced_000007.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.2_000166_generated_replaced_000008.jpg": {
+    "abs": 33.18,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000011_generated_replaced_000004.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000015_generated_replaced_000004.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000022_generated_replaced_000005.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000024_generated_replaced_000005.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000031_generated_replaced_000006.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000037_generated_replaced_000005.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000040_generated_replaced_000008.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000068_generated_replaced_000000.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.3_000106_generated_replaced_000007.jpg": {
+    "abs": 49.77,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.4_000004_generated_replaced_000008.jpg": {
+    "abs": 66.36,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.4_000042_generated_replaced_000007.jpg": {
+    "abs": 66.36,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.4_000051_generated_replaced_000003.jpg": {
+    "abs": 66.36,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.4_000081_generated_replaced_000004.jpg": {
+    "abs": 66.36,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.4_000133_generated_replaced_000001.jpg": {
+    "abs": 66.36,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.5_000021_generated_replaced_000002.jpg": {
+    "abs": 82.95,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.5_000072_generated_replaced_000002.jpg": {
+    "abs": 82.95,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.5_000104_generated_replaced_000002.jpg": {
+    "abs": 82.95,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.6_000066_generated_replaced_000008.jpg": {
+    "abs": 99.54,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_nissan_sentra_sylphy_level-0.6_000140_generated_replaced_000009.jpg": {
+    "abs": 99.54,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2020_nissan_sentra_sylphy",
+    "vehicle_height_cm": 165.9
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000000_generated_replaced_000004.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000004_generated_replaced_000003.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000024_generated_replaced_000006.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000027_generated_replaced_000009.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000032_generated_replaced_000007.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000037_generated_replaced_000008.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000096_generated_replaced_000005.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.1_000148_generated_replaced_000003.jpg": {
+    "abs": 15.31,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.2_000016_generated_replaced_000003.jpg": {
+    "abs": 30.62,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.2_000052_generated_replaced_000007.jpg": {
+    "abs": 30.62,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.3_000009_generated_replaced_000005.jpg": {
+    "abs": 45.93,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.3_000038_generated_replaced_000000.jpg": {
+    "abs": 45.93,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.3_000044_generated_replaced_000003.jpg": {
+    "abs": 45.93,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.3_000056_generated_replaced_000009.jpg": {
+    "abs": 45.93,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000020_generated_replaced_000002.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000025_generated_replaced_000003.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000028_generated_replaced_000006.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000078_generated_replaced_000007.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000079_generated_replaced_000006.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.4_000153_generated_replaced_000009.jpg": {
+    "abs": 61.24,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.5_000005_generated_replaced_000002.jpg": {
+    "abs": 76.55,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.5_000043_generated_replaced_000009.jpg": {
+    "abs": 76.55,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.5_000044_generated_replaced_000001.jpg": {
+    "abs": 76.55,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.5_000087_generated_replaced_000009.jpg": {
+    "abs": 76.55,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.5_000175_generated_replaced_000006.jpg": {
+    "abs": 76.55,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.6_000049_generated_replaced_000000.jpg": {
+    "abs": 91.86,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.6_000058_generated_replaced_000005.jpg": {
+    "abs": 91.86,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.7_000057_generated_replaced_000009.jpg": {
+    "abs": 107.17,
+    "ratio": 0.7,
+    "flood_level": 8,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2020_skoda_kamiq_gt_level-0.8_000146_generated_replaced_000009.jpg": {
+    "abs": 122.48,
+    "ratio": 0.8,
+    "flood_level": 9,
+    "vehicle": "2020_skoda_kamiq_gt",
+    "vehicle_height_cm": 153.1
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000010_generated_replaced_000002.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000014_generated_replaced_000009.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000024_generated_replaced_000003.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000031_generated_replaced_000005.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000121_generated_replaced_000009.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.1_000157_generated_replaced_000000.jpg": {
+    "abs": 15.8,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000007_generated_replaced_000007.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000008_generated_replaced_000002.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000011_generated_replaced_000000.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000019_generated_replaced_000000.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000021_generated_replaced_000000.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000045_generated_replaced_000009.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000051_generated_replaced_000007.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000067_generated_replaced_000005.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.2_000068_generated_replaced_000009.jpg": {
+    "abs": 31.6,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000004_generated_replaced_000007.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000016_generated_replaced_000005.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000026_generated_replaced_000003.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000030_generated_replaced_000008.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000086_generated_replaced_000002.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.3_000088_generated_replaced_000009.jpg": {
+    "abs": 47.4,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000007_generated_replaced_000008.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000011_generated_replaced_000003.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000016_generated_replaced_000005.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000018_generated_replaced_000002.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000085_generated_replaced_000004.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000102_generated_replaced_000008.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.4_000133_generated_replaced_000005.jpg": {
+    "abs": 63.2,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.5_000010_generated_replaced_000006.jpg": {
+    "abs": 79.0,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.5_000029_generated_replaced_000001.jpg": {
+    "abs": 79.0,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.5_000035_generated_replaced_000005.jpg": {
+    "abs": 79.0,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.5_000049_generated_replaced_000008.jpg": {
+    "abs": 79.0,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.5_000086_generated_replaced_000000.jpg": {
+    "abs": 79.0,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.6_000017_generated_replaced_000000.jpg": {
+    "abs": 94.8,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.6_000037_generated_replaced_000002.jpg": {
+    "abs": 94.8,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.6_000050_generated_replaced_000009.jpg": {
+    "abs": 94.8,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.6_000157_generated_replaced_000004.jpg": {
+    "abs": 94.8,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_hyundai_encino_ev_level-0.6_000159_generated_replaced_000008.jpg": {
+    "abs": 94.8,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_hyundai_encino_ev",
+    "vehicle_height_cm": 158.0
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.1_000003_generated_replaced_000005.jpg": {
+    "abs": 14.45,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.1_000005_generated_replaced_000009.jpg": {
+    "abs": 14.45,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.1_000052_generated_replaced_000000.jpg": {
+    "abs": 14.45,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.1_000140_generated_replaced_000009.jpg": {
+    "abs": 14.45,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.2_000008_generated_replaced_000003.jpg": {
+    "abs": 28.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.2_000032_generated_replaced_000002.jpg": {
+    "abs": 28.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.2_000038_generated_replaced_000000.jpg": {
+    "abs": 28.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.3_000033_generated_replaced_000007.jpg": {
+    "abs": 43.35,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.4_000049_generated_replaced_000001.jpg": {
+    "abs": 57.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.4_000121_generated_replaced_000007.jpg": {
+    "abs": 57.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.5_000112_generated_replaced_000006.jpg": {
+    "abs": 72.25,
+    "ratio": 0.5,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_cross_touran_l_280_tsi_level-0.6_000141_generated_replaced_000000.jpg": {
+    "abs": 86.7,
+    "ratio": 0.6,
+    "flood_level": 6,
+    "vehicle": "2021_volkswagen_cross_touran_l_280_tsi",
+    "vehicle_height_cm": 144.5
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.1_000029_generated_replaced_000001.jpg": {
+    "abs": 15.16,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.1_000032_generated_replaced_000000.jpg": {
+    "abs": 15.16,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.1_000066_generated_replaced_000008.jpg": {
+    "abs": 15.16,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.1_000131_generated_replaced_000000.jpg": {
+    "abs": 15.16,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.1_000175_generated_replaced_000007.jpg": {
+    "abs": 15.16,
+    "ratio": 0.1,
+    "flood_level": 2,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.2_000008_generated_replaced_000003.jpg": {
+    "abs": 30.32,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.2_000009_generated_replaced_000001.jpg": {
+    "abs": 30.32,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.2_000011_generated_replaced_000004.jpg": {
+    "abs": 30.32,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.2_000056_generated_replaced_000000.jpg": {
+    "abs": 30.32,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000009_generated_replaced_000009.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000014_generated_replaced_000004.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000046_generated_replaced_000002.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000050_generated_replaced_000007.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000055_generated_replaced_000009.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000160_generated_replaced_000003.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.3_000175_generated_replaced_000008.jpg": {
+    "abs": 45.48,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000010_generated_replaced_000003.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000011_generated_replaced_000002.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000016_generated_replaced_000008.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000017_generated_replaced_000000.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000043_generated_replaced_000009.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000050_generated_replaced_000001.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000056_generated_replaced_000005.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000070_generated_replaced_000006.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000086_generated_replaced_000007.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000117_generated_replaced_000007.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.4_000123_generated_replaced_000002.jpg": {
+    "abs": 60.64,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.5_000001_generated_replaced_000005.jpg": {
+    "abs": 75.8,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.5_000063_generated_replaced_000004.jpg": {
+    "abs": 75.8,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.5_000068_generated_replaced_000004.jpg": {
+    "abs": 75.8,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.6_000084_generated_replaced_000009.jpg": {
+    "abs": 90.96,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.6_000096_generated_replaced_000004.jpg": {
+    "abs": 90.96,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkswagen_passat_330_tsi_level-0.8_000137_generated_replaced_000000.jpg": {
+    "abs": 121.28,
+    "ratio": 0.8,
+    "flood_level": 9,
+    "vehicle": "2021_volkswagen_passat_330_tsi",
+    "vehicle_height_cm": 151.6
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.2_000031_generated_replaced_000004.jpg": {
+    "abs": 31.24,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.2_000034_generated_replaced_000009.jpg": {
+    "abs": 31.24,
+    "ratio": 0.2,
+    "flood_level": 3,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.3_000019_generated_replaced_000002.jpg": {
+    "abs": 46.86,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.3_000029_generated_replaced_000007.jpg": {
+    "abs": 46.86,
+    "ratio": 0.3,
+    "flood_level": 4,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000020_generated_replaced_000007.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000067_generated_replaced_000008.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000071_generated_replaced_000009.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000085_generated_replaced_000001.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000127_generated_replaced_000009.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.4_000138_generated_replaced_000009.jpg": {
+    "abs": 62.48,
+    "ratio": 0.4,
+    "flood_level": 5,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.5_000011_generated_replaced_000000.jpg": {
+    "abs": 78.1,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.5_000024_generated_replaced_000004.jpg": {
+    "abs": 78.1,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.5_000030_generated_replaced_000008.jpg": {
+    "abs": 78.1,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.5_000161_generated_replaced_000007.jpg": {
+    "abs": 78.1,
+    "ratio": 0.5,
+    "flood_level": 6,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_2021_volkwagen_id.3_level-0.6_000066_generated_replaced_000001.jpg": {
+    "abs": 93.72,
+    "ratio": 0.6,
+    "flood_level": 7,
+    "vehicle": "2021_volkwagen_id.3",
+    "vehicle_height_cm": 156.2
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000012_generated_replaced_000003.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000021_generated_replaced_000000.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000028_generated_replaced_000005.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000034_generated_replaced_000008.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000085_generated_replaced_000000.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.1_000140_generated_replaced_000005.jpg": {
+    "abs": 13.95,
+    "ratio": 0.1,
+    "flood_level": 1,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.2_000004_generated_replaced_000002.jpg": {
+    "abs": 27.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.2_000038_generated_replaced_000007.jpg": {
+    "abs": 27.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.2_000063_generated_replaced_000009.jpg": {
+    "abs": 27.9,
+    "ratio": 0.2,
+    "flood_level": 2,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000002_generated_replaced_000002.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000003_generated_replaced_000003.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000008_generated_replaced_000003.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000014_generated_replaced_000009.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000031_generated_replaced_000004.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.3_000065_generated_replaced_000005.jpg": {
+    "abs": 41.85,
+    "ratio": 0.3,
+    "flood_level": 3,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000001_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000010_generated_replaced_000003.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000036_generated_replaced_000005.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000042_generated_replaced_000002.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000043_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000046_generated_replaced_000007.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000063_generated_replaced_000005.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000076_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000077_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000079_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000086_generated_replaced_000004.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.4_000125_generated_replaced_000002.jpg": {
+    "abs": 55.8,
+    "ratio": 0.4,
+    "flood_level": 4,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.5_000031_generated_replaced_000009.jpg": {
+    "abs": 69.75,
+    "ratio": 0.5,
+    "flood_level": 5,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.5_000064_generated_replaced_000004.jpg": {
+    "abs": 69.75,
+    "ratio": 0.5,
+    "flood_level": 5,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.5_000086_generated_replaced_000009.jpg": {
+    "abs": 69.75,
+    "ratio": 0.5,
+    "flood_level": 5,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.6_000030_generated_replaced_000009.jpg": {
+    "abs": 83.7,
+    "ratio": 0.6,
+    "flood_level": 6,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.6_000032_generated_replaced_000001.jpg": {
+    "abs": 83.7,
+    "ratio": 0.6,
+    "flood_level": 6,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.6_000036_generated_replaced_000009.jpg": {
+    "abs": 83.7,
+    "ratio": 0.6,
+    "flood_level": 6,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.6_000117_generated_replaced_000006.jpg": {
+    "abs": 83.7,
+    "ratio": 0.6,
+    "flood_level": 6,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  },
+  "10layer_18cam_bmw_m6_gran_coupe_level-0.8_000114_generated_replaced_000004.jpg": {
+    "abs": 111.6,
+    "ratio": 0.8,
+    "flood_level": 8,
+    "vehicle": "bmw_m6_gran_coupe",
+    "vehicle_height_cm": 139.5
+  }
+}

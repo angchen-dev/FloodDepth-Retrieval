@@ -1,0 +1,6 @@
+# NumPy, Pandas, and Matplotlib are supplied by the repository's
+# fd_retrieval_env environment.
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+beautifulsoup4==4.13.4
+jupyterlab==4.4.3
