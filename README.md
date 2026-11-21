@@ -1,6 +1,6 @@
 # *Flood depth estimation using images of vehicles: a new image retrieval framework with annotated datasets*
 
-Official code and datasets for *Flood depth estimation using images of vehicles: a new image retrieval framework with annotated datasets*.
+Official code and datasets for the paper [**Flood depth estimation using images of vehicles: a new image retrieval framework with annotated datasets**](https://www.sciencedirect.com/science/article/pii/S2212420926005534#da1). DOI: [10.1016/j.ijdrr.2026.106541](https://doi.org/10.1016/j.ijdrr.2026.106541).
 
 The proposed method first detects and segments vehicles with SAM3, then matches each segmented vehicle against a rendered retrieval dataset using VGG19 features. The final flood-depth estimate is selected from the detected vehicle candidates using retrieval similarity and vehicle area.
 
