@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Flood-Depth Annotation Demo - Demo Notice</title>
+    
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        display: flex;
+        flex-direction: column;
+        max-width: 800px;
+        margin: auto;
+        padding: 2rem;
+        box-sizing: border-box;
+        overflow-y: auto;
+      }
+    
+      h1, h2 {
+        text-align: center;
+      }
+    
+      section {
+        margin-bottom: 1.5rem;
+      }
+    
+      input[type="checkbox"] {
+        transform: scale(1.2);
+        margin-right: 0.5rem;
+      }
+    </style>
+    
+</head>
+<body>
+
+  <h1>Flood-Depth Annotation Demo</h1>
+  <h2>Demo Notice</h2>
+
+  <section>
+    <strong>Purpose of This Demo</strong>
+    <p>
+      This interface demonstrates the annotation application used in the study <em>Flood depth estimation using images
+      of vehicles: a new image retrieval framework with annotated datasets</em> to collect annotated flood depths for
+      the real-world dataset. This public version is provided for software demonstration and reproducibility purposes
+      only. It is not configured for participant recruitment or new research data collection.
+    </p>
+  </section>
+
+  <section>
+    <strong>What the Demo Involves</strong>
+    <p>
+      You will first see three trial images and then five annotation images. For each image, select a similar 3D
+      vehicle and align the virtual water plane with the visible flood waterline. The demo should take approximately
+      <strong>5–10 minutes</strong>.
+    </p>
+  </section>
+
+  <section>
+    <strong>Local Demo Data</strong>
+    <ul>
+      <li>Use a non-identifying Demo ID. Do not enter your name, email address, or other personal information.</li>
+      <li>Demo entries are stored only in the local SQLite database of the machine running this application.</li>
+      <li>Delete the local database when the demonstration records are no longer needed.</li>
+    </ul>
+  </section>
+
+  <section>
+    <strong>Before Collecting Research Data</strong>
+    <p>
+      Before using this application with research participants, replace this notice with an institutionally approved
+      participant information and consent form. The replacement must identify the responsible organisation and
+      researcher, provide valid contact and ethics information, and explain data processing, retention, sharing,
+      withdrawal, and participant rights.
+    </p>
+  </section>
+
+  <section>
+    <h3>Continue to the Demo</h3>
+    <form onsubmit="submitConsent(); return false;" class="mt-4">
+      <div class="form-check mb-3">
+        <input type="checkbox" id="agree" class="form-check-input" required />
+        <label class="form-check-label" for="agree">
+          I understand that this is a software demonstration and that I should not enter personal information.
+        </label>
+      </div>
+
+      <div class="mb-3">
+        <label for="participantId" class="form-label">Demo ID:</label>
+        <input type="text" id="participantId" class="form-control" required />
+      </div>
+
+      <div class="mb-3">
+        <label for="consentDateDisplay" class="form-label">Date:</label>
+        <input type="date" id="consentDateDisplay" class="form-control" disabled />
+        <input type="hidden" id="consentDate" name="consentDate" />
+      </div>
+      
+      <div>
+        <button type="submit" class="btn btn-primary btn-lg">Continue</button>
+      </div><br>
+
+    </form>
+  </section>
+
+  <script>
+    // Set today's date on load
+    document.addEventListener('DOMContentLoaded', () => {
+      const today = new Date().toISOString().split('T')[0];
+      document.getElementById("consentDateDisplay").value = today;
+      document.getElementById("consentDate").value = today;
+    });
+
+    function submitConsent() {
+      const name = document.getElementById("participantId").value.trim();
+      const date = document.getElementById("consentDate").value;
+      const agree = document.getElementById("agree").checked;
+
+      if (!name || !date || !agree) {
+        alert("Enter a non-identifying Demo ID and acknowledge the demo notice to continue.");
+        return;
+      }
+
+      window.parent.postMessage({
+        type: "consent-complete",
+        name,
+        date
+      }, "*");
+    }
+  </script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-qQ2iX+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+
+</body>
+</html>

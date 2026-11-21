@@ -1,0 +1,1002 @@
+{
+    "001.jpg": {
+        "abs": 69.58,
+        "ratio": 0.48,
+        "flood_level": 5
+    },
+    "002.jpg": {
+        "abs": 104.13,
+        "ratio": 0.71,
+        "flood_level": 8
+    },
+    "003.jpg": {
+        "abs": 51.48,
+        "ratio": 0.35,
+        "flood_level": 4
+    },
+    "004.jpg": {
+        "abs": 56.47,
+        "ratio": 0.39,
+        "flood_level": 4
+    },
+    "005.jpg": {
+        "abs": 72.65,
+        "ratio": 0.5,
+        "flood_level": 5
+    },
+    "006.jpg": {
+        "abs": 87.33,
+        "ratio": 0.6,
+        "flood_level": 6
+    },
+    "007.jpg": {
+        "abs": 69.58,
+        "ratio": 0.48,
+        "flood_level": 5
+    },
+    "008.jpg": {
+        "abs": 68.63,
+        "ratio": 0.47,
+        "flood_level": 5
+    },
+    "009.jpg": {
+        "abs": 60.72,
+        "ratio": 0.42,
+        "flood_level": 5
+    },
+    "010.jpg": {
+        "abs": 60.82,
+        "ratio": 0.42,
+        "flood_level": 5
+    },
+    "011.jpg": {
+        "abs": 22.3,
+        "ratio": 0.15,
+        "flood_level": 2
+    },
+    "012.jpg": {
+        "abs": 112.76,
+        "ratio": 0.77,
+        "flood_level": 8
+    },
+    "013.jpg": {
+        "abs": 20.59,
+        "ratio": 0.14,
+        "flood_level": 2
+    },
+    "014.jpg": {
+        "abs": 46.33,
+        "ratio": 0.32,
+        "flood_level": 4
+    },
+    "015.jpg": {
+        "abs": 95.07,
+        "ratio": 0.65,
+        "flood_level": 7
+    },
+    "016.jpg": {
+        "abs": 84.46,
+        "ratio": 0.58,
+        "flood_level": 6
+    },
+    "017.jpg": {
+        "abs": 102.95,
+        "ratio": 0.71,
+        "flood_level": 8
+    },
+    "018.jpg": {
+        "abs": 73.08,
+        "ratio": 0.5,
+        "flood_level": 6
+    },
+    "019.jpg": {
+        "abs": 104.13,
+        "ratio": 0.71,
+        "flood_level": 8
+    },
+    "020.jpg": {
+        "abs": 17.04,
+        "ratio": 0.12,
+        "flood_level": 2
+    },
+    "021.jpg": {
+        "abs": 63.0,
+        "ratio": 0.43,
+        "flood_level": 5
+    },
+    "022.jpg": {
+        "abs": 19.42,
+        "ratio": 0.13,
+        "flood_level": 2
+    },
+    "023.jpg": {
+        "abs": 44.73,
+        "ratio": 0.31,
+        "flood_level": 4
+    },
+    "024.jpg": {
+        "abs": 80.5,
+        "ratio": 0.55,
+        "flood_level": 6
+    },
+    "025.jpg": {
+        "abs": 56.75,
+        "ratio": 0.39,
+        "flood_level": 4
+    },
+    "026.jpg": {
+        "abs": 86.25,
+        "ratio": 0.59,
+        "flood_level": 6
+    },
+    "027.jpg": {
+        "abs": 98.69,
+        "ratio": 0.68,
+        "flood_level": 7
+    },
+    "028.jpg": {
+        "abs": 83.77,
+        "ratio": 0.57,
+        "flood_level": 6
+    },
+    "029.jpg": {
+        "abs": 34.08,
+        "ratio": 0.23,
+        "flood_level": 3
+    },
+    "030.jpg": {
+        "abs": 108.73,
+        "ratio": 0.75,
+        "flood_level": 8
+    },
+    "031.jpg": {
+        "abs": 68.52,
+        "ratio": 0.47,
+        "flood_level": 5
+    },
+    "032.jpg": {
+        "abs": 93.25,
+        "ratio": 0.64,
+        "flood_level": 7
+    },
+    "033.jpg": {
+        "abs": 80.7,
+        "ratio": 0.55,
+        "flood_level": 6
+    },
+    "034.jpg": {
+        "abs": 56.09,
+        "ratio": 0.38,
+        "flood_level": 4
+    },
+    "035.jpg": {
+        "abs": 84.47,
+        "ratio": 0.58,
+        "flood_level": 6
+    },
+    "036.jpg": {
+        "abs": 34.79,
+        "ratio": 0.24,
+        "flood_level": 3
+    },
+    "037.jpg": {
+        "abs": 82.78,
+        "ratio": 0.57,
+        "flood_level": 6
+    },
+    "038.jpg": {
+        "abs": 67.45,
+        "ratio": 0.46,
+        "flood_level": 5
+    },
+    "039.jpg": {
+        "abs": 105.18,
+        "ratio": 0.72,
+        "flood_level": 8
+    },
+    "040.jpg": {
+        "abs": 85.67,
+        "ratio": 0.59,
+        "flood_level": 6
+    },
+    "041.jpg": {
+        "abs": 64.14,
+        "ratio": 0.44,
+        "flood_level": 5
+    },
+    "042.jpg": {
+        "abs": 35.03,
+        "ratio": 0.24,
+        "flood_level": 3
+    },
+    "043.jpg": {
+        "abs": 84.73,
+        "ratio": 0.58,
+        "flood_level": 6
+    },
+    "044.jpg": {
+        "abs": 52.16,
+        "ratio": 0.36,
+        "flood_level": 4
+    },
+    "045.jpg": {
+        "abs": 62.45,
+        "ratio": 0.43,
+        "flood_level": 5
+    },
+    "046.jpg": {
+        "abs": 41.42,
+        "ratio": 0.28,
+        "flood_level": 3
+    },
+    "047.jpg": {
+        "abs": 100.57,
+        "ratio": 0.69,
+        "flood_level": 7
+    },
+    "048.jpg": {
+        "abs": 69.34,
+        "ratio": 0.48,
+        "flood_level": 5
+    },
+    "049_2015 land rover range rover sport svr.jpg": {
+        "abs": 77.22,
+        "ratio": 0.53,
+        "flood_level": 6
+    },
+    "050_2016 bmw x5 m.jpg": {
+        "abs": 97.7,
+        "ratio": 0.67,
+        "flood_level": 7
+    },
+    "051.jpg": {
+        "abs": 41.89,
+        "ratio": 0.29,
+        "flood_level": 3
+    },
+    "052.jpg": {
+        "abs": 45.29,
+        "ratio": 0.31,
+        "flood_level": 4
+    },
+    "053.jpg": {
+        "abs": 30.53,
+        "ratio": 0.21,
+        "flood_level": 3
+    },
+    "054.jpg": {
+        "abs": 98.45,
+        "ratio": 0.68,
+        "flood_level": 7
+    },
+    "055.jpg": {
+        "abs": 86.86,
+        "ratio": 0.6,
+        "flood_level": 6
+    },
+    "056.jpg": {
+        "abs": 72.89,
+        "ratio": 0.5,
+        "flood_level": 6
+    },
+    "057.jpg": {
+        "abs": 62.84,
+        "ratio": 0.43,
+        "flood_level": 5
+    },
+    "058.jpg": {
+        "abs": 101.85,
+        "ratio": 0.7,
+        "flood_level": 7
+    },
+    "059.jpg": {
+        "abs": 29.82,
+        "ratio": 0.2,
+        "flood_level": 3
+    },
+    "060.jpg": {
+        "abs": 58.52,
+        "ratio": 0.4,
+        "flood_level": 5
+    },
+    "061.jpg": {
+        "abs": 11.9,
+        "ratio": 0.08,
+        "flood_level": 1
+    },
+    "062.jpg": {
+        "abs": 55.38,
+        "ratio": 0.38,
+        "flood_level": 4
+    },
+    "063.jpg": {
+        "abs": 98.22,
+        "ratio": 0.67,
+        "flood_level": 7
+    },
+    "064.jpg": {
+        "abs": 6.52,
+        "ratio": 0.04,
+        "flood_level": 1
+    },
+    "065.jpg": {
+        "abs": 48.75,
+        "ratio": 0.33,
+        "flood_level": 4
+    },
+    "066.jpg": {
+        "abs": 27.04,
+        "ratio": 0.19,
+        "flood_level": 2
+    },
+    "067.jpg": {
+        "abs": 139.36,
+        "ratio": 0.96,
+        "flood_level": 9
+    },
+    "068.jpg": {
+        "abs": 59.88,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "069.jpg": {
+        "abs": 88.63,
+        "ratio": 0.61,
+        "flood_level": 7
+    },
+    "070.jpg": {
+        "abs": 41.89,
+        "ratio": 0.29,
+        "flood_level": 3
+    },
+    "071.jpg": {
+        "abs": 63.48,
+        "ratio": 0.44,
+        "flood_level": 5
+    },
+    "072.jpg": {
+        "abs": 80.6,
+        "ratio": 0.55,
+        "flood_level": 6
+    },
+    "073.jpg": {
+        "abs": 82.83,
+        "ratio": 0.57,
+        "flood_level": 6
+    },
+    "074.jpg": {
+        "abs": 60.35,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "075.jpg": {
+        "abs": 79.12,
+        "ratio": 0.54,
+        "flood_level": 6
+    },
+    "076.jpg": {
+        "abs": 31.95,
+        "ratio": 0.22,
+        "flood_level": 3
+    },
+    "077.jpg": {
+        "abs": 97.51,
+        "ratio": 0.67,
+        "flood_level": 7
+    },
+    "078.jpg": {
+        "abs": 25.32,
+        "ratio": 0.17,
+        "flood_level": 2
+    },
+    "079.jpg": {
+        "abs": 45.2,
+        "ratio": 0.31,
+        "flood_level": 4
+    },
+    "080.jpg": {
+        "abs": 61.53,
+        "ratio": 0.42,
+        "flood_level": 5
+    },
+    "081.jpg": {
+        "abs": 56.09,
+        "ratio": 0.38,
+        "flood_level": 4
+    },
+    "082.jpg": {
+        "abs": 98.69,
+        "ratio": 0.68,
+        "flood_level": 7
+    },
+    "083.jpg": {
+        "abs": 113.28,
+        "ratio": 0.78,
+        "flood_level": 8
+    },
+    "084.jpg": {
+        "abs": 26.74,
+        "ratio": 0.18,
+        "flood_level": 2
+    },
+    "085.jpg": {
+        "abs": 80.93,
+        "ratio": 0.56,
+        "flood_level": 6
+    },
+    "086.jpg": {
+        "abs": 52.07,
+        "ratio": 0.36,
+        "flood_level": 4
+    },
+    "087.jpg": {
+        "abs": 90.31,
+        "ratio": 0.62,
+        "flood_level": 7
+    },
+    "088.jpg": {
+        "abs": 44.18,
+        "ratio": 0.3,
+        "flood_level": 4
+    },
+    "089.jpg": {
+        "abs": 50.17,
+        "ratio": 0.34,
+        "flood_level": 4
+    },
+    "090.jpg": {
+        "abs": 60.0,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "091.jpg": {
+        "abs": 47.17,
+        "ratio": 0.32,
+        "flood_level": 4
+    },
+    "092.jpg": {
+        "abs": 46.86,
+        "ratio": 0.32,
+        "flood_level": 4
+    },
+    "093.jpg": {
+        "abs": 94.67,
+        "ratio": 0.65,
+        "flood_level": 7
+    },
+    "094.jpg": {
+        "abs": 59.03,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "095.jpg": {
+        "abs": 61.77,
+        "ratio": 0.42,
+        "flood_level": 5
+    },
+    "096.jpg": {
+        "abs": 100.81,
+        "ratio": 0.69,
+        "flood_level": 7
+    },
+    "097.jpg": {
+        "abs": 104.9,
+        "ratio": 0.72,
+        "flood_level": 8
+    },
+    "098.jpg": {
+        "abs": 132.83,
+        "ratio": 0.91,
+        "flood_level": 9
+    },
+    "099.jpg": {
+        "abs": 39.75,
+        "ratio": 0.27,
+        "flood_level": 3
+    },
+    "100.jpg": {
+        "abs": 90.64,
+        "ratio": 0.62,
+        "flood_level": 7
+    },
+    "101.jpg": {
+        "abs": 75.16,
+        "ratio": 0.52,
+        "flood_level": 6
+    },
+    "102.jpg": {
+        "abs": 109.73,
+        "ratio": 0.75,
+        "flood_level": 8
+    },
+    "103.jpg": {
+        "abs": 59.01,
+        "ratio": 0.4,
+        "flood_level": 5
+    },
+    "104.jpg": {
+        "abs": 94.07,
+        "ratio": 0.65,
+        "flood_level": 7
+    },
+    "105.jpg": {
+        "abs": 73.21,
+        "ratio": 0.5,
+        "flood_level": 6
+    },
+    "106.jpg": {
+        "abs": 98.93,
+        "ratio": 0.68,
+        "flood_level": 7
+    },
+    "107.jpg": {
+        "abs": 58.46,
+        "ratio": 0.4,
+        "flood_level": 5
+    },
+    "108.jpg": {
+        "abs": 42.96,
+        "ratio": 0.29,
+        "flood_level": 3
+    },
+    "109.jpg": {
+        "abs": 58.46,
+        "ratio": 0.4,
+        "flood_level": 5
+    },
+    "110.jpg": {
+        "abs": 76.44,
+        "ratio": 0.52,
+        "flood_level": 6
+    },
+    "111.jpg": {
+        "abs": 72.89,
+        "ratio": 0.5,
+        "flood_level": 6
+    },
+    "112.jpg": {
+        "abs": 96.44,
+        "ratio": 0.66,
+        "flood_level": 7
+    },
+    "113.jpg": {
+        "abs": 81.41,
+        "ratio": 0.56,
+        "flood_level": 6
+    },
+    "114.jpg": {
+        "abs": 81.09,
+        "ratio": 0.56,
+        "flood_level": 6
+    },
+    "115.jpg": {
+        "abs": 48.04,
+        "ratio": 0.33,
+        "flood_level": 4
+    },
+    "116.jpg": {
+        "abs": 96.09,
+        "ratio": 0.66,
+        "flood_level": 7
+    },
+    "117.jpg": {
+        "abs": 36.21,
+        "ratio": 0.25,
+        "flood_level": 3
+    },
+    "118.jpg": {
+        "abs": 88.04,
+        "ratio": 0.6,
+        "flood_level": 7
+    },
+    "119.jpg": {
+        "abs": 81.68,
+        "ratio": 0.56,
+        "flood_level": 6
+    },
+    "120.jpg": {
+        "abs": 81.41,
+        "ratio": 0.56,
+        "flood_level": 6
+    },
+    "121.jpg": {
+        "abs": 30.99,
+        "ratio": 0.21,
+        "flood_level": 3
+    },
+    "122.jpg": {
+        "abs": 59.17,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "123.jpg": {
+        "abs": 48.97,
+        "ratio": 0.34,
+        "flood_level": 4
+    },
+    "124.jpg": {
+        "abs": 38.58,
+        "ratio": 0.26,
+        "flood_level": 3
+    },
+    "125.jpg": {
+        "abs": 91.12,
+        "ratio": 0.63,
+        "flood_level": 7
+    },
+    "126.jpg": {
+        "abs": 84.25,
+        "ratio": 0.58,
+        "flood_level": 6
+    },
+    "127.jpg": {
+        "abs": 44.49,
+        "ratio": 0.31,
+        "flood_level": 4
+    },
+    "128.jpg": {
+        "abs": 76.07,
+        "ratio": 0.52,
+        "flood_level": 6
+    },
+    "129.jpg": {
+        "abs": 59.4,
+        "ratio": 0.41,
+        "flood_level": 5
+    },
+    "130.jpg": {
+        "abs": 72.57,
+        "ratio": 0.5,
+        "flood_level": 5
+    },
+    "131.jpg": {
+        "abs": 138.24,
+        "ratio": 0.95,
+        "flood_level": 9
+    },
+    "132.jpg": {
+        "abs": 53.09,
+        "ratio": 0.36,
+        "flood_level": 4
+    },
+    "133.jpg": {
+        "abs": 99.44,
+        "ratio": 0.68,
+        "flood_level": 7
+    },
+    "134.jpg": {
+        "abs": 54.49,
+        "ratio": 0.37,
+        "flood_level": 4
+    },
+    "135.jpg": {
+        "abs": 41.42,
+        "ratio": 0.28,
+        "flood_level": 3
+    },
+    "136.jpg": {
+        "abs": 46.86,
+        "ratio": 0.32,
+        "flood_level": 4
+    },
+    "137.jpg": {
+        "abs": 53.01,
+        "ratio": 0.36,
+        "flood_level": 4
+    },
+    "138.jpg": {
+        "abs": 116.44,
+        "ratio": 0.8,
+        "flood_level": 8
+    },
+    "139.jpg": {
+        "abs": 78.23,
+        "ratio": 0.54,
+        "flood_level": 6
+    },
+    "140.jpg": {
+        "abs": 48.04,
+        "ratio": 0.33,
+        "flood_level": 4
+    },
+    "141.jpg": {
+        "abs": 88.15,
+        "ratio": 0.6,
+        "flood_level": 7
+    },
+    "142.jpg": {
+        "abs": 68.45,
+        "ratio": 0.47,
+        "flood_level": 5
+    },
+    "143.jpg": {
+        "abs": 64.11,
+        "ratio": 0.44,
+        "flood_level": 5
+    },
+    "144.jpg": {
+        "abs": 51.62,
+        "ratio": 0.35,
+        "flood_level": 4
+    },
+    "145.jpg": {
+        "abs": 29.46,
+        "ratio": 0.2,
+        "flood_level": 3
+    },
+    "146.jpg": {
+        "abs": 118.87,
+        "ratio": 0.82,
+        "flood_level": 9
+    },
+    "147.jpg": {
+        "abs": 58.5,
+        "ratio": 0.4,
+        "flood_level": 5
+    },
+    "148.jpg": {
+        "abs": 88.4,
+        "ratio": 0.61,
+        "flood_level": 7
+    },
+    "149.jpg": {
+        "abs": 63.0,
+        "ratio": 0.43,
+        "flood_level": 5
+    },
+    "150.jpg": {
+        "abs": 53.58,
+        "ratio": 0.37,
+        "flood_level": 4
+    },
+    "151.jpg": {
+        "abs": 48.63,
+        "ratio": 0.33,
+        "flood_level": 4
+    },
+    "152.jpg": {
+        "abs": 54.15,
+        "ratio": 0.37,
+        "flood_level": 4
+    },
+    "153.jpg": {
+        "abs": 83.06,
+        "ratio": 0.57,
+        "flood_level": 6
+    },
+    "154.jpg": {
+        "abs": 33.72,
+        "ratio": 0.23,
+        "flood_level": 3
+    },
+    "155.jpg": {
+        "abs": 63.62,
+        "ratio": 0.44,
+        "flood_level": 5
+    },
+    "156.jpg": {
+        "abs": 91.6,
+        "ratio": 0.63,
+        "flood_level": 7
+    },
+    "157.jpg": {
+        "abs": 88.99,
+        "ratio": 0.61,
+        "flood_level": 7
+    },
+    "158.jpg": {
+        "abs": 21.64,
+        "ratio": 0.15,
+        "flood_level": 2
+    },
+    "159.jpg": {
+        "abs": 67.05,
+        "ratio": 0.46,
+        "flood_level": 5
+    },
+    "160.jpg": {
+        "abs": 49.95,
+        "ratio": 0.34,
+        "flood_level": 4
+    },
+    "161.jpg": {
+        "abs": 96.32,
+        "ratio": 0.66,
+        "flood_level": 7
+    },
+    "162.jpg": {
+        "abs": 109.09,
+        "ratio": 0.75,
+        "flood_level": 8
+    },
+    "163.jpg": {
+        "abs": 23.62,
+        "ratio": 0.16,
+        "flood_level": 2
+    },
+    "164.jpg": {
+        "abs": 74.79,
+        "ratio": 0.51,
+        "flood_level": 6
+    },
+    "165.jpg": {
+        "abs": 67.51,
+        "ratio": 0.46,
+        "flood_level": 5
+    },
+    "166.jpg": {
+        "abs": 67.58,
+        "ratio": 0.46,
+        "flood_level": 5
+    },
+    "167.jpg": {
+        "abs": 79.28,
+        "ratio": 0.54,
+        "flood_level": 6
+    },
+    "168.jpg": {
+        "abs": 25.56,
+        "ratio": 0.18,
+        "flood_level": 2
+    },
+    "169.jpg": {
+        "abs": 51.6,
+        "ratio": 0.35,
+        "flood_level": 4
+    },
+    "171.jpg": {
+        "abs": 107.68,
+        "ratio": 0.74,
+        "flood_level": 8
+    },
+    "172.jpg": {
+        "abs": 14.04,
+        "ratio": 0.1,
+        "flood_level": 1
+    },
+    "173.jpg": {
+        "abs": 38.1,
+        "ratio": 0.26,
+        "flood_level": 3
+    },
+    "174.jpg": {
+        "abs": 101.26,
+        "ratio": 0.7,
+        "flood_level": 7
+    },
+    "175.jpg": {
+        "abs": 66.29,
+        "ratio": 0.45,
+        "flood_level": 5
+    },
+    "176.jpg": {
+        "abs": 20.09,
+        "ratio": 0.14,
+        "flood_level": 2
+    },
+    "177.jpg": {
+        "abs": 75.97,
+        "ratio": 0.52,
+        "flood_level": 6
+    },
+    "178.jpg": {
+        "abs": 111.47,
+        "ratio": 0.77,
+        "flood_level": 8
+    },
+    "179.jpg": {
+        "abs": 34.15,
+        "ratio": 0.23,
+        "flood_level": 3
+    },
+    "180.jpg": {
+        "abs": 66.22,
+        "ratio": 0.45,
+        "flood_level": 5
+    },
+    "181.jpg": {
+        "abs": 74.91,
+        "ratio": 0.51,
+        "flood_level": 6
+    },
+    "182.jpg": {
+        "abs": 37.31,
+        "ratio": 0.26,
+        "flood_level": 3
+    },
+    "183.jpg": {
+        "abs": 27.45,
+        "ratio": 0.19,
+        "flood_level": 2
+    },
+    "184.jpg": {
+        "abs": 45.44,
+        "ratio": 0.31,
+        "flood_level": 4
+    },
+    "185.jpg": {
+        "abs": 24.12,
+        "ratio": 0.17,
+        "flood_level": 2
+    },
+    "186.jpg": {
+        "abs": 55.16,
+        "ratio": 0.38,
+        "flood_level": 4
+    },
+    "187.jpg": {
+        "abs": 88.72,
+        "ratio": 0.61,
+        "flood_level": 7
+    },
+    "188.jpg": {
+        "abs": 40.19,
+        "ratio": 0.28,
+        "flood_level": 3
+    },
+    "189.jpg": {
+        "abs": 44.37,
+        "ratio": 0.3,
+        "flood_level": 4
+    },
+    "190.jpg": {
+        "abs": 61.53,
+        "ratio": 0.42,
+        "flood_level": 5
+    },
+    "191_BMW 1 Series.jpg": {
+        "abs": 28.4,
+        "ratio": 0.19,
+        "flood_level": 2
+    },
+    "192_BMW i5.jpg": {
+        "abs": 52.16,
+        "ratio": 0.36,
+        "flood_level": 4
+    },
+    "193_fiatabarth500.jpg": {
+        "abs": 28.54,
+        "ratio": 0.2,
+        "flood_level": 2
+    },
+    "194_Ford Explorer.jpg": {
+        "abs": 38.88,
+        "ratio": 0.27,
+        "flood_level": 3
+    },
+    "195_Honda HR-V.jpg": {
+        "abs": 83.75,
+        "ratio": 0.57,
+        "flood_level": 6
+    },
+    "196_MazdaCX-5.jpg": {
+        "abs": 47.68,
+        "ratio": 0.33,
+        "flood_level": 4
+    },
+    "197_Nissan Altima.jpg": {
+        "abs": 31.95,
+        "ratio": 0.22,
+        "flood_level": 3
+    },
+    "198_Renault Megane II RS (2004-2009).jpg": {
+        "abs": 46.76,
+        "ratio": 0.32,
+        "flood_level": 4
+    },
+    "199_tesla_model_3.jpg": {
+        "abs": 69.34,
+        "ratio": 0.48,
+        "flood_level": 5
+    },
+    "200_vw_golf.jpg": {
+        "abs": 37.46,
+        "ratio": 0.26,
+        "flood_level": 3
+    },
+    "201.jpg": {
+        "abs": 61.06,
+        "ratio": 0.42,
+        "flood_level": 5
+    }
+}

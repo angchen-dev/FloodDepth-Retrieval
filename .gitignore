@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# OS and notebook files
+.DS_Store
+.ipynb_checkpoints/
+
+# Logs and tool caches
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data, assets, and generated/released results are distributed separately.
+/data/
+/datasets/
+/runs/
+
+# Model checkpoints and generated caches
+/checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Collected annotation responses
+scripts/build_real_world_dataset/annotation_app/results/*
+!scripts/build_real_world_dataset/annotation_app/results/.gitkeep
+
+# Original research notebooks are not part of the public inference entries.
+scripts/baselines/**/notebooks/
